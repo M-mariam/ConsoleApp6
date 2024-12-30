@@ -85,7 +85,7 @@ namespace ConsoleApp6
             //Console.WriteLine(phonbook.GetNumber("mariam"));
             // indexer
             Console.WriteLine(phonbook["mariam"]);
-            phonbook["mariam"] = 1111;
+            //phonbook["mariam"] = 1111;
             #endregion
         }
     }
